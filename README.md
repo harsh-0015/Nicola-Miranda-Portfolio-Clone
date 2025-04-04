@@ -1,18 +1,20 @@
-📌 Overview
-
-This project is a clone of Niccolò Miranda’s portfolio, built using HTML, CSS, JavaScript, and GSAP. It replicates the stunning design, smooth animations, and clean layout of the original portfolio while adding my own optimizations.
+📌 Project Overview
+This project is a clone of Niccolò Miranda’s portfolio, recreated using HTML, CSS, JavaScript, and GSAP. It closely mirrors the original’s sleek design, elegant animations, and clean layout—while incorporating my own improvements and optimizations for performance and responsiveness.
 
 🚀 Tech Stack
+HTML – For semantic and structured content
 
-HTML – Structuring the content
-CSS – Styling and layout
-JavaScript – Interactive elements
-GSAP – Smooth animations
+CSS – For responsive styling and layout
 
+JavaScript – For dynamic interactions
 
-🎯 Features
+GSAP – For fluid, high-performance animations
 
-✔️ Smooth animations with GSAP
-✔️ Minimalist and modern UI
-✔️ Responsive design (optimized for desktop)
-✔️ Well-organized codebase
+🎯 Key Features
+✅ Smooth, scroll-based animations powered by GSAP
+
+✅ Minimalist and modern user interface
+
+✅ Responsive design optimized for desktop screens
+
+✅ Clean, modular, and well-documented codebase
